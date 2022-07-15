@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ###########################################################################
+#    A simple customizable progress bar for use in your bash scripts
 #    Copyright (C) 2022  Farhad Kia
 #
 #    This program is free software: you can redistribute it and/or modify
